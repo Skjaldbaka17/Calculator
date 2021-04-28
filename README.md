@@ -16,10 +16,25 @@ npm install
 
 then run from terminal
 ```bash
-react-native run-ios
+npx react-native run-ios
 ```
 
 Or if on a Mac open the Calculator/ios project in Xcode and run it from there.
+
+There is a possibility that the above instructions, for running from terminal, will fail with some exit code (i.e. 65) from Xcode. Then do:
+
+```bash
+cd ios
+pod install
+cd ..
+```
+and then:
+
+```bash
+npx react-native run-ios
+```
+
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
