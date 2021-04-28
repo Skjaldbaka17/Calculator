@@ -5,9 +5,13 @@ This is a recreation of the calculator app on IOS-devices made in React Native. 
 ## Installation
 
 If you do not have react-native installed follow their guide for the react-native CLI: https://reactnative.dev/docs/environment-setup
-Then clone this repo.
 
-## Usage
+I used node v. 16.0.0 to initialize and run the application, but any version after 12.0.0 should be ok.
+
+Now for the installation:
+
+Clone this repo.
+
 cd-into the created directory and install dependencies:
 ```bash
 cd Calculator
