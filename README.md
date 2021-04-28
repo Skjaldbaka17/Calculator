@@ -34,7 +34,7 @@ and then:
 npx react-native run-ios
 ```
 
-
+that should do the trick.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
