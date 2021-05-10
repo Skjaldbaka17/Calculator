@@ -2,6 +2,10 @@
 
 This is a recreation of the calculator app on IOS-devices made as an assignment to test out React Native and compare the framework with Flutter.
 
+### Note
+
+This is my first React Native project, therefore it may include unneccessary files.
+
 ## Dependencies:
 
 (for running on ios - Mac)
