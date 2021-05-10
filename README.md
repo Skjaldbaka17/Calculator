@@ -11,11 +11,11 @@ This is my first React Native project, therefore it may include unneccessary fil
 (for running on ios - Mac)
 
 - [nodeJS](https://nodejs.org/en/), I used node v. 16.0.0 to initialize and run the application, but any version after 12.0.0 should be ok.
-- [cocoapods](https://cocoapods.org)
+- [cocoapods](https://cocoapods.org), v. 1.10.1
 ```bash
 sudo gem install cocoapods
 ```
-- [xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+- [xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12), tested on version 12.5 
 
 ## Installation
 
